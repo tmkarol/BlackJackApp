@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BlackJack</string>
+    <string name="play_button">Play Game!</string>
+    <string name="options_button">Options</string>
+    <string name="quit_button">Quit</string>
+    <string-array name="colors_array">
+        <item>Red</item>
+        <item>Blue</item>
+    </string-array>
+</resources>
